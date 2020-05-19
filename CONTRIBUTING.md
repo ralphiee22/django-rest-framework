@@ -4,7 +4,7 @@
 >
 > &mdash; [Tim Berners-Lee][cite]
 
-There are many ways you can contribute to Django REST framework.  We'd like it to be a community-led project, so please get involved and help shape the future of the project.
+There are many ways you can contribute to Django REST framework.  We'd like it to be a community-led project, so please get involved and help shape fsdfssfdthe future of the project.
 
 ## Community
 
