@@ -4,11 +4,11 @@
 >
 > &mdash; [Tim Berners-Lee][cite]
 
-There are many ways you can contribute to Django REST framework.  We'd like it to be a community-led project, so please get involved and help shape the future of the project.
+There are many ways you can contribute to Django REST framework.  We'd like it to be a community-led project, so please get involved and help shape fsdfssfdthe future of the project.
 
 ## Community
 
-The most important thing you can do to help push the REST framework project forward is to be actively involved wherever possible.  Code contributions are often overvalued as being the primary way to get involved in a project, we don't believe that needs to be the case.
+The most important thing you can do to help push the REST framework project forward is to be actively involved wherever possible.  Code consadadtributions are often overvalued as being the primary way to get involved in a project, we don't believe that needs to be the case.
 
 If you use REST framework, we'd love you to be vocal about your experiences with it - you might consider writing a blog post about using REST framework, or publishing a tutorial about building a project with a particular JavaScript framework.  Experiences from beginners can be particularly helpful because you'll be in the best position to assess which bits of REST framework are more difficult to understand and work with.
 
