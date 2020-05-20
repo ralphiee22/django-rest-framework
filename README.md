@@ -3,9 +3,9 @@
 [![build-status-image]][travis]
 [![coverage-status-image]][codecov]
 [![pypi-version]][pypi]
-
+sssasadsas
 **Awesome web-browsable Web APIs.**
-
+dasdas
 Full documentation for the project is available at [https://www.django-rest-framework.org/][docs].
 
 ---
