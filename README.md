@@ -8,7 +8,7 @@ sssasadsas
 dasdas
 Full documentation for the project is available at [https://www.django-rest-framework.org/][docs].
 
----
+---sync
 
 # Funding
 
