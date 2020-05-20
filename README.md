@@ -13,7 +13,7 @@ Full documentation for the project is available at [https://www.django-rest-fram
 # Funding
 
 REST framework is a *collaboratively funded project*. If you use
-REST framework commercially we strongly encourage you to invest in its
+REST framework commercsadaially we strongly encourage you to invest in its
 continued development by [signing up for a paid plan][funding].
 
 The initial aim is to provide a single full-time position on REST framework.
