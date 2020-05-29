@@ -10,7 +10,7 @@ Full documentation for the project is available at [https://www.django-rest-fram
 vfvdsdsddswwdsadas
 ---dsaddddddsad
 dddddsaddsdsds
-# Fundingdssdssddssdddswd
+# Fundingdssdssddssdddswddjd
 
 REST framework is a *collaboratively funded project*. If you use
 REST framework commercialssly we strongly encourage you to invest in its
