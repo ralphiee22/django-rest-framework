@@ -9,7 +9,7 @@ dasdas
 Full documentation for the project is available at [https://www.django-rest-framework.org/][docs].
 vfvdsdsddswwdsadas
 ---dsaddddddsad
-dddddsadds
+dddddsaddsdsds
 # Fundingdssdssddsd
 
 REST framework is a *collaboratively funded project*. If you use
