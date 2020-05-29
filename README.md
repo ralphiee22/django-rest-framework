@@ -13,7 +13,7 @@ dddddsaddsdsds
 # Fundingdssdssddssdddswd
 
 REST framework is a *collaboratively funded project*. If you use
-REST framework commercially we strongly encourage you to invest in its
+REST framework commercialssly we strongly encourage you to invest in its
 continued development by [signing up for a paid plan][funding].
 
 The initial aim is to provide a single full-time position on REST framework.
