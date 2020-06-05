@@ -1,4 +1,3 @@
-[![coverage-status-image]][codecov]
 [![pypi-version]][pypi]
 **Awesome web-browsable Web APIs.**
 dasdas
