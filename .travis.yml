@@ -2,7 +2,6 @@ language: python
 cache: pip
 dist: xenial
 matrix:
-    fast_finish: true
     include:
 
       - { python: "3.5", env: DJANGO=1.11 }
