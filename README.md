@@ -1,6 +1,4 @@
 
-# Funding
-
 REST framework is a *collaboratively funded project*. If you use
 REST framework commercially we strongly encourage you to invest in its
 continued development by [signing up for a paid plan][funding].
