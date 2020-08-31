@@ -1,6 +1,4 @@
 
----
-
 # Funding
 
 REST framework is a *collaboratively funded project*. If you use
