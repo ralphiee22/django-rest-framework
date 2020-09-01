@@ -1,4 +1,3 @@
-
 REST framework commercially we strongly encourage you to invest in its
 continued development by [signing up for a paid plan][funding].
 
