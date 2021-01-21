@@ -14,3 +14,6 @@ coverage.*
 !.gitignore
 !.travis.yml
 !.isort.cfg
+
+
+ikjoi
